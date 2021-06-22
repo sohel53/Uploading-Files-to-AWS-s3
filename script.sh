@@ -1,3 +1,5 @@
+#!/bin/bash
+
 S3KEY="my aws key"
 S3SECRET="my aws secret" # pass these in
 
